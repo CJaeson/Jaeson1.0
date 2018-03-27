@@ -38,7 +38,7 @@ typedef NSMutableArray<NSMutableArray<NSString *> *> CJIndexPathArray;
     NSLog(@"%@",self.indexPathArray);
     
     NSString *testStr = [self testRuntime];
-    
+      
     NSLog(@"runtime's testStr is %@",testStr);//this is add commiting
     // Do any additional setup after loading the view, typically from a nib.
 }
