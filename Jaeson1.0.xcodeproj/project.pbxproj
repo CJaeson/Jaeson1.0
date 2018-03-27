@@ -13,6 +13,7 @@
 		140A87CA2068DC28005EE8FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 140A87C92068DC28005EE8FE /* Assets.xcassets */; };
 		140A87CD2068DC28005EE8FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140A87CB2068DC28005EE8FE /* LaunchScreen.storyboard */; };
 		140A87D02068DC28005EE8FE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 140A87CF2068DC28005EE8FE /* main.m */; };
+		143E56542069F88E0051522A /* MapBranchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 143E56532069F88E0051522A /* MapBranchTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		140A87CC2068DC28005EE8FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		140A87CE2068DC28005EE8FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		140A87CF2068DC28005EE8FE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		143E56522069F88E0051522A /* MapBranchTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapBranchTest.h; sourceTree = "<group>"; };
+		143E56532069F88E0051522A /* MapBranchTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapBranchTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				140A87CB2068DC28005EE8FE /* LaunchScreen.storyboard */,
 				140A87CE2068DC28005EE8FE /* Info.plist */,
 				140A87CF2068DC28005EE8FE /* main.m */,
+				143E56522069F88E0051522A /* MapBranchTest.h */,
+				143E56532069F88E0051522A /* MapBranchTest.m */,
 			);
 			path = Jaeson1.0;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 			files = (
 				140A87C52068DC28005EE8FE /* ViewController.m in Sources */,
 				140A87D02068DC28005EE8FE /* main.m in Sources */,
+				143E56542069F88E0051522A /* MapBranchTest.m in Sources */,
 				140A87C22068DC28005EE8FE /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
