@@ -40,6 +40,8 @@ typedef NSMutableArray<NSMutableArray<NSString *> *> CJIndexPathArray;
     NSString *testStr = [self testRuntime];
     
     NSLog(@"runtime's testStr is %@",testStr);//this is add commiting
+    
+    NSLog(@"增加分支测试");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
